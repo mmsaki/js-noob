@@ -15,7 +15,7 @@
 - [Schema.org Microdata](https://schema.org/docs/gs.html)
 - [`JsonLD` in Nextjs](https://www.codeconcisely.com/posts/nextjs-structured-data/)
 
-## Js Resources
+## Javascript basics
 
 - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 - [Arrow Funcitons](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
